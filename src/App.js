@@ -1,16 +1,16 @@
+import React, { Component } from 'react';
 import './App.css';
+import Calculator from './components/Calculator';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-       
+class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
 
-
-       
-      </header>
-    </div>
-  );
+  render() {
+    return (<Calculator />);
+  }
 }
 
 export default App;

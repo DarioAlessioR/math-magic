@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Project Name: Math Magicians
 
 "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
@@ -29,13 +31,13 @@ https://github.com/microverseinc/curriculum-react-redux/blob/main/math-magicians
 
 Project will be build in several phases, according to the following:
 
-Project 1: Setup.
-Project 2: Components.
-Project 3: Events.
-Project 4: Refactor with hooks (pair programming).
-Project 5: Full website.
-Project 6: Tests (pair programming).
-Exercise: Deploy.
+- Project 1: Setup.
+- Project 2: Components.
+- Project 3: Events.
+- Project 4: Refactor with hooks (pair programming).
+- Project 5: Full website.
+- Project 6: Tests (pair programming).
+- Exercise: Deploy.
 
 ## Built With:
 Major languages: Javascript, HTML, CSS
@@ -60,17 +62,22 @@ Slack: https://microverse-students.slack.com/team/U039GCFRK9B
 
 LinkedIn: https://www.linkedin.com/in/dario-alessio-3a3b7911b
 
-🤝 Contributing:
+## 🤝 Contributing:
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-Show your support:
+## Show your support:
+
 Give a ⭐️ if you like this project!
 
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
-📝 License
-This project is MIT licensed.
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.

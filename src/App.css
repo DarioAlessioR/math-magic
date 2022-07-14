@@ -20,7 +20,9 @@
 
 .calculator-container {
   max-width: 500px;
-  margin: 0 500px 0 500px;
+  width: 30%;
+  margin-left: 35%;
+  margin-right: 35%;
 }
 
 .display {
@@ -31,6 +33,7 @@
   font-weight: bold;
   font-size: 1.1rem;
   padding: 15px 10px 15px 0;
+  min-width: 200px;
 }
 
 .list-btn {
@@ -38,6 +41,7 @@
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: auto;
   height: 50px;
+  min-width: 200px;
 }
 
 .list-btn-last {
@@ -45,6 +49,7 @@
   grid-template-columns: 2fr 1fr 1fr;
   grid-template-rows: auto;
   height: 50px;
+  min-width: 200px;
 }
 
 .list-btn-item {

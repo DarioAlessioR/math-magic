@@ -19,8 +19,8 @@ const Calculator = () => {
 
   return (
     <main className="PageContainer">
-      <div className="content">
-        <p> </p>
+      <div className="calculator-phrase">
+        <p>Come to have some fun with maths!!</p>
       </div>
 
       <section className="calculator-container">

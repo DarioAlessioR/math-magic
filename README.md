@@ -50,6 +50,13 @@ Clone the repository in your local machine using git clone.
 
 Please run: npm run build and then npm start to see project displayed in your browser.
 
+## Live demo:
+
+To see the project deployed please visit anyone  of the following links:
+
+Netlify:   https://benevolent-tanuki-9d1893.netlify.app/math-magicians
+
+Heroku:    https://dario1.herokuapp.com/math-magicians
 
 ##  Authors
 👤 Author1

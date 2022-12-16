@@ -24,6 +24,7 @@ class App extends Component {
           <Navbar />
           <section className="content">
             <Routes>
+              <Route path="/" element={<Home />} />
               <Route path="/math-magicians" element={<Home />} />
               <Route path="/Calculator" element={<Calculator />} />
               <Route path="/Quote" element={<Quote />} />

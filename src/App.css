@@ -160,6 +160,13 @@ nav {
   font-size: 1.1rem;
 }
 
+.text-sign {
+  line-height: 25px;
+  font-weight: 600;
+  color: rgb(18, 9, 95);
+  font-size: 2rem;
+}
+
 .active {
   text-decoration-color: rgb(221, 30, 46);
   text-decoration-style: solid;
